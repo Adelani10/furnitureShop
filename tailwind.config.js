@@ -14,7 +14,7 @@ module.exports = {
         veryDarkGray: 'hsl(0, 0%, 27%)'
       },
       fontSize: {
-        kekere: "7px",
+        kekere: "13px",
         bigKekere: "8px"
       },
     },
